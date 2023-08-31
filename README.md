@@ -1,0 +1,1 @@
+# vite-mofule-federation-test
